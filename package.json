@@ -1,6 +1,6 @@
 {
   "name": "html2slim",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "convert html string to slim template",
   "main": "index.js",
   "scripts": {

@@ -1,9 +1,9 @@
-# html2slim wrapper 
+# html2slim converter 
 
 ## Install
 
 ```sh
-$ gem install html2slim
+$ gem install html2haml haml2slim
 $ npm i -S html2slim
 ```
 
